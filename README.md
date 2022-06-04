@@ -2,7 +2,7 @@
 
 Este es el proyecto final de Argentina Programa.
 
-El front-end de la app está construido en Angular y utiliza tecnologías de HTML, CSS y TypeScript.
+El front-end de la app está construido en Angular y utiliza las tecnologías HTML, CSS y TypeScript.
 
 El portfolio se encuentra hosteado en Firebase: https://proyecto-dv-80d35.web.app/portfolio
 
