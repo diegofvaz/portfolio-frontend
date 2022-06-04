@@ -1,3 +1,13 @@
+# Portfolio
+
+Este es el proyecto final de Argentina Programa.
+
+El front-end de la app está construido en Angular y utiliza tecnologías de HTML, CSS y TypeScript.
+
+El portfolio se encuentra hosteado en Firebase: 
+
+El usuario deberá loguearse para realizar modificaciones en el portfolio. Una vez logueado, aparecerán los botones para crear, editar y eliminar el campo seleccionado.
+
 # Proyecto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
