@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   // apiBaseUrl: 'http://localhost:8080'
-  apiBaseUrl: 'portfolio-backend-production-4e4a.up.railway.app'
+  apiBaseUrl: 'https://portfolio-backend-production-4e4a.up.railway.app'
 };
 
 /*
