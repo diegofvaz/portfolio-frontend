@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   // apiBaseUrl: 'http://localhost:8080'
-  apiBaseUrl: 'https://proyecto-backend-dv.herokuapp.com'
+  apiBaseUrl: 'portfolio-backend-production-4e4a.up.railway.app'
 };
 
 /*
